@@ -1,5 +1,5 @@
 # Donnacona Robotic Team
-This is where the code will be managed
+This is where the code for the robot building venture will be managed
 
 ## How to work
 Every one who wishes to contribute to this repository will:
